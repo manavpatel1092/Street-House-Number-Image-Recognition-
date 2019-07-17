@@ -11,7 +11,7 @@ http://ufldl.stanford.edu/housenumbers
 Overview of the dataset:
 - 10 classes, 1 for each digit. Digit '1' has label 1, '9' has label 9 and '0' has label 10.
 - 73257 digits for training, 26032 digits for testing, and 531131 additional, somewhat less difficult samples, to use as extra training data.
--Comes in two formats:
+- Comes in two formats:
 1. Original images with character level bounding boxes.
 2. MNIST-like 32-by-32 images centered around a single character (many of the images do contain some distractors at the sides).
 
